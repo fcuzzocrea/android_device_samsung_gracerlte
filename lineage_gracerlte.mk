@@ -29,7 +29,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_DEVICE := gracerlte
 PRODUCT_NAME := lineage_gracerlte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G930F
+PRODUCT_MODEL := SM-N935F
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
