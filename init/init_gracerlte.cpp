@@ -46,7 +46,7 @@ void vendor_load_properties()
         /* gracerltexx */
         property_override("ro.build.description", "gracerltexx-user 9 PPR1.180610.011 N935FXXU6CSK1 release-keys");
         set_ro_product_prop("device", "gracertexx");
-        set_ro_product_prop("fingerprint", "samsung/gracerltexx/gracerlte:9/PPR1.180610.011/N935FXXU6CSK1:user/release-keys");
+        set_build_fingerprint("samsung/gracerltexx/gracerlte:9/PPR1.180610.011/N935FXXU6CSK1:user/release-keys");
         set_ro_product_prop("model", "SM-N935F");
         set_ro_product_prop("name", "gracerltexx");
         gsm_properties("9");
